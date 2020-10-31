@@ -1,8 +1,6 @@
 # dagovna
 maketap.sh and tapcreator are part of a project to allow for the easy creation of tap interfaces on Ubuntu for network based testing.
 
-Tap-Creator is a simple bash script that enables the autamatic creation and bridging of a tap interface for testing.
-
 1. It requires as a pre-requisite the installation of the below packages:
 
  sudo apt-get install uml-utilities bridge-utils
