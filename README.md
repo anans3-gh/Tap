@@ -7,5 +7,5 @@ maketap.sh and tapcreator are part of a project to allow for the easy creation o
 
 2. Subsequently just run the script with sudo and you should be done.
 
-*I have only tested this on Ubuntu 18.04 but I am sure it will work on any other debian variant.
+     *I have only tested this on Ubuntu 18.04 but I am sure it will work on any other debian variant.
 
