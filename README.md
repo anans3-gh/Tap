@@ -3,7 +3,7 @@ maketap.sh and tapcreator are part of a project to allow for the easy creation o
 
 1. It requires as a pre-requisite the installation of the below packages:
 
- sudo apt-get install uml-utilities bridge-utils
+     sudo apt-get install uml-utilities bridge-utils
 
 2. Subsequently just run the script with sudo and you should be done.
 
